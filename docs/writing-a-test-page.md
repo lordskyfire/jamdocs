@@ -11,4 +11,4 @@ This is a test page to see what all is possible with this setup. The idea is to 
 1. Work on how to find keyword-level opportunities to optimize
 2. Work on how to find #1 on scale
 3. Work on finding tasks that can be achieved by Jupyter Notebooks on a routine basis
-4. 
+4. Work on creating Jupyter notebooks that can perform the tasks mentioned in #3
