@@ -4,6 +4,10 @@
       "section": "SEO Journal",
       "topics": [
         {
+          "title": "Writing a test page",
+          "slug": "writing-a-test-page"
+        },
+        {
           "title": "SEO",
           "slug": "seo-journal"
         }
