@@ -1,7 +1,7 @@
 ---
 title: Writing a test page
 date: 2021-01-02
-slug: ''
+slug: writing-a-test-page
 
 ---
 This is a test page to see what all is possible with this setup. The idea is to create a system where I can document my findings and learnings over time or at the very least in 2021.
