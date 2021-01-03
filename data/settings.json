@@ -1,19 +1,6 @@
 {
   "sidebar": [
     {
-      "section": "SEO Journal",
-      "topics": [
-        {
-          "title": "Writing a test page",
-          "slug": "writing-a-test-page"
-        },
-        {
-          "title": "SEO",
-          "slug": "seo-journal"
-        }
-      ]
-    },
-    {
       "section": "Introduction",
       "topics": [
         {
@@ -32,6 +19,10 @@
         {
           "title": "Forestry CMS",
           "slug": "forestry-cms"
+        },
+        {
+          "title": "Writing a test page",
+          "slug": "writing-a-test-page"
         }
       ]
     }
